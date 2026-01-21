@@ -4,6 +4,11 @@ Ein Full-Stack-Rezeptverwaltungssystem, das mit einem .NET 10-Backend und einem 
 
 English:
 A full-stack Recipe Management System built with .NET 10 backend and React TypeScript frontend, demonstrating Clean Architecture principles and modern web development practices.
+
+## Hinweis: Die Option, eine neue Kategorie, ein neues Rezept oder eine neue Zutat hinzuzufügen, ist nur für diesen bestimmten Benutzer verfügbar. Dadurch wird eine mögliche Löschung durch einen anderen Benutzer verhindert.
+
+## English : The option to add a new category or recipe or ingredient is restricted only to that particular user. This eliminates possible deletion by another user.
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
